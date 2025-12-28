@@ -25,3 +25,54 @@ Assumes a 192.168.1.0/24 subnet by default (can be improved for dynamic detectio
 Basic honeypot checks; not foolproof against advanced setups.
 Cross-platform support is limited in v1.0 (improved in v1.1).
 Ethical Note: Use only on networks you own or have explicit permission to scan. Unauthorized use may violate laws or policies.
+
+
+
+
+
+
+
+
+
+output       
+╔══════════════════════════════════════════════╗
+║        DECEPTION-LENS v1.1                   ║
+║        Network Illusion Breaker              ║
+║        See through all false realities       ║
+╚══════════════════════════════════════════════╝
+
+[+] Focusing the DECEPTION-LENS...
+
+============================================================
+REALITY DISTORTION FIELD REPORT
+============================================================
+
+[REAL NETWORK STATE]
+Interface eth0: [{'addr': '192.168.1.100', 'netmask': '255.255.255.0', 'broadcast': '192.168.1.255'}]
+Interface lo: [{'addr': '127.0.0.1', 'netmask': '255.0.0.0'}]
+
+[ILLUSIONS DETECTED]
+INFO: [+] Scanning for ARP deceptions...
+✅ No ARP spoofing detected
+
+[HONEYPOT ANALYSIS]
+INFO: [+] Analyzing 192.168.1.1 for honeypot characteristics...
+✅ Target 192.168.1.1 appears genuine
+
+============================================================
+TOTAL ILLUSIONS FOUND: 0
+============================================================
+
+INFO: [+] Report saved to 20231015_143022_network_reality_report.json
+
+============================================================
+GNOSTIC NETWORK WISDOM:
+============================================================
+
+1. Everything on the network can lie
+2. MAC addresses are suggestions, not laws
+3. Open ports can be traps
+4. Silence can be more truthful than response
+5. The map is not the territory
+
+📊 REALITY SCORE: 100/100 - Your network is relatively honest
